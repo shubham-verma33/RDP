@@ -1,0 +1,16 @@
+C:\Users\ADMIN\Desktop\RDP\RDP2\RDP2\bin\Debug\RDP2.exe.config
+C:\Users\ADMIN\Desktop\RDP\RDP2\RDP2\bin\Debug\RDP2.exe
+C:\Users\ADMIN\Desktop\RDP\RDP2\RDP2\bin\Debug\RDP2.pdb
+C:\Users\ADMIN\Desktop\RDP\RDP2\RDP2\obj\Debug\RDP2.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\RDP\RDP2\RDP2\obj\Debug\RDP2.csproj.SuggestedBindingRedirects.cache
+C:\Users\ADMIN\Desktop\RDP\RDP2\RDP2\obj\Debug\RDP2.Form1.resources
+C:\Users\ADMIN\Desktop\RDP\RDP2\RDP2\obj\Debug\RDP2.Properties.Resources.resources
+C:\Users\ADMIN\Desktop\RDP\RDP2\RDP2\obj\Debug\RDP2.csproj.GenerateResource.cache
+C:\Users\ADMIN\Desktop\RDP\RDP2\RDP2\obj\Debug\RDP2.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\RDP\RDP2\RDP2\obj\Debug\RDP2.exe
+C:\Users\ADMIN\Desktop\RDP\RDP2\RDP2\obj\Debug\RDP2.pdb
+C:\Users\ADMIN\Desktop\RDP\RDP2\RDP2\bin\Debug\Interop.MSTSCLib.dll
+C:\Users\ADMIN\Desktop\RDP\RDP2\RDP2\bin\Debug\AxInterop.MSTSCLib.dll
+C:\Users\ADMIN\Desktop\RDP\RDP2\RDP2\obj\Debug\Interop.MSTSCLib.dll
+C:\Users\ADMIN\Desktop\RDP\RDP2\RDP2\obj\Debug\AxInterop.MSTSCLib.dll
+C:\Users\ADMIN\Desktop\RDP\RDP2\RDP2\obj\Debug\RDP2.csproj.ResolveComReference.cache
